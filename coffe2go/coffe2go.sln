@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coffee.service", "Coffee.service\Coffee.service.csproj", "{25A25818-DB40-49E9-B578-F264E98C7D68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basket.service", "Basket.service\Basket.service.csproj", "{0F93EFC9-B32E-41CA-B259-03D0CD688CA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Order.service", "Order.service\Order.service.csproj", "{2BAEA52D-2E0E-4EF7-8DB8-2435EC478D93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Payment.service", "Payment.service\Payment.service.csproj", "{FAC8B5B1-702E-46F4-983C-787B588227E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25A25818-DB40-49E9-B578-F264E98C7D68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25A25818-DB40-49E9-B578-F264E98C7D68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25A25818-DB40-49E9-B578-F264E98C7D68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25A25818-DB40-49E9-B578-F264E98C7D68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F93EFC9-B32E-41CA-B259-03D0CD688CA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F93EFC9-B32E-41CA-B259-03D0CD688CA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F93EFC9-B32E-41CA-B259-03D0CD688CA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F93EFC9-B32E-41CA-B259-03D0CD688CA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BAEA52D-2E0E-4EF7-8DB8-2435EC478D93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BAEA52D-2E0E-4EF7-8DB8-2435EC478D93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BAEA52D-2E0E-4EF7-8DB8-2435EC478D93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BAEA52D-2E0E-4EF7-8DB8-2435EC478D93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAC8B5B1-702E-46F4-983C-787B588227E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAC8B5B1-702E-46F4-983C-787B588227E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAC8B5B1-702E-46F4-983C-787B588227E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAC8B5B1-702E-46F4-983C-787B588227E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
